@@ -14,13 +14,13 @@
    
    <h3>🔨 Languages and Tools:</h3>
    <div>
-     <i class="fa-brands fa-html5"></i>
-      <img src="https://github.com/devicons/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/></br>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="JAVA" alt="JAVA" width="40" height="40"/></br>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="SASS" alt="SASS" width="40" height="40"/></br>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="MYSQL" alt="SQL" width="40" height="40"/></br>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="GIT" alt="GIT" width="40" height="40"/></br>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="PHP" alt="PHP" width="40" height="40"/></br>
+      <img src="https://github.com/devicons/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+      <img src="https://github.com/devicons/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
+      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="JAVA" alt="JAVA" width="40" height="40"/>
+      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="SASS" alt="SASS" width="40" height="40"/>
+      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="MYSQL" alt="SQL" width="40" height="40"/>
+      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="GIT" alt="GIT" width="40" height="40"/>
+      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
       <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="Python" alt="Python" width="40" height="40"/></br>
       <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></br>
       <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></br>
