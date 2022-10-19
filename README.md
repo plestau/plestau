@@ -1,6 +1,3 @@
-<head>
-  <script src="https://kit.fontawesome.com/1da4682d2d.js" crossorigin="anonymous"></script>
-</head>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="200" />
   <h1 align="center">👋 Hi, I’m @plestau</h1>
@@ -15,10 +12,13 @@
 ----
   📊 My stats:
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=plestau&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=plestau&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plestau&show_icons=true&theme=tokyonight)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plestau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=plestau)](https://github.com/anuraghazra/github-readme-stats)
   
 <!---
 plestau/plestau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
