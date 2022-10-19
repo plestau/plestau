@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="200" />
   <h1 align="center">👋 Hi, I’m @plestau</h1>
-  <h3 align="center"> A dedicated web fullstack developer from Spain. I like learning how are made the programs of my computer and how to create a new one</h3>
+  <h3 align="center"> A dedicated web fullstack developer from Spain. I like learning how are made the programs of my computer and maybe, how to create a new one</h3>
 
 - 👀 I’m interested in playing videogames, reading books and learning new things.
 - 🌱 I’m currently learning JavaScript and PhP.
