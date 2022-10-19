@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://giphy.com/embed/XreQmk7ETCak0" width="200" />
+   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="200" />
   <h1 align="center">👋 Hi, I’m @plestau</h1>
 
 
