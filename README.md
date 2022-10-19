@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-kid-thumbs-up&psig=AOvVaw3-TXUhDr2FWu_LN-4piBQG&ust=1666274720914000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjfkJi77PoCFQAAAAAdAAAAABAE" width="200" />
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fthumbs-up-kid-meme-gifs&psig=AOvVaw3-TXUhDr2FWu_LN-4piBQG&ust=1666274720914000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjfkJi77PoCFQAAAAAdAAAAABAS" width="200" />
   <h1 align="center">👋 Hi, I’m @plestau</h1>
 
 
