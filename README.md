@@ -1,3 +1,6 @@
+<head>
+  <script src="https://kit.fontawesome.com/1da4682d2d.js" crossorigin="anonymous"></script>
+</head>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="200" />
   <h1 align="center">👋 Hi, I’m @plestau</h1>
@@ -11,7 +14,7 @@
    
    <h3>🔨 Languages and Tools:</h3>
    <div>
-      <img src="[https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F5968%2F5968267.png&imgrefurl=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fhtml-5_5968267&tbnid=GNdXg8DSXbPTNM&vet=12ahUKEwjZmd6JwOz6AhUKaRoKHcx1D-4QMygAegUIARDQAQ..i&docid=pbpHSTqbC73S1M&w=512&h=512&q=icono%20html%205&ved=2ahUKEwjZmd6JwOz6AhUKaRoKHcx1D-4QMygAegUIARDQAQ)" title="HTML5" alt="HTML" width="40" height="40"/></br>
+     <i class="fa-brands fa-html5"></i>
       <img src="https://hithub.com/devicons/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/></br>
       <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="JAVA" alt="JAVA" width="40" height="40"/></br>
       <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="SASS" alt="SASS" width="40" height="40"/></br>
