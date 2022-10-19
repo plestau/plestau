@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <iframe src="https://giphy.com/embed/XreQmk7ETCak0" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/retro-thumbs-up-XreQmk7ETCak0">via GIPHY</a></p>
+   <img src="https://giphy.com/embed/XreQmk7ETCak0" width="200" />
   <h1 align="center">👋 Hi, I’m @plestau</h1>
 
 
