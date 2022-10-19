@@ -12,23 +12,14 @@
 - 💞️ I’m looking to collaborate with my classmates to get a A+
 - 📫 My e-mail is pablolestau@outlook.com
    
-   <h3>🔨 Languages and Tools:</h3>
-   <div>
-      <img src="https://github.com/devicons/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-      <img src="https://github.com/devicons/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="JAVA" alt="JAVA" width="40" height="40"/>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="SASS" alt="SASS" width="40" height="40"/>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="MYSQL" alt="SQL" width="40" height="40"/>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="GIT" alt="GIT" width="40" height="40"/>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="Python" alt="Python" width="40" height="40"/></br>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></br>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></br>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></br>
-      <img src="https://hithub.com/devicons/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></br>
-   </div>
-      
+----
+  📊 My stats:
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=plestau&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plestau&show_icons=true&theme=radical)
 
+  
 <!---
 plestau/plestau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
