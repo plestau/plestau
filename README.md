@@ -6,8 +6,8 @@
     Actually im studing developments of multiplatform apps
   </h3>
 
-- 👀 I’m interested in playing videogames, reading books and learning new things.
-- 🌱 I’m currently learning Oboo.
+- 👀 I’m interested in reading books, playing videogames and learning new things.
+- 🌱 I’m currently learning Odoo and kotlin.
 - 💬 Ask me about Python, HTML5 , MYSQL, Git, CSS, SCSS, JavaScript, PhP and Java
 - 💞️ I’m looking to collaborate with my classmates to get a A+
 - 📫 My e-mail is pablolestau@outlook.com
