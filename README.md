@@ -3,12 +3,12 @@
   <h1 align="center">👋 Hi, I’m @plestau</h1>
   <h3 align="center"> 
     A dedicated web fullstack developer from Spain. I like learning how are made the programs of my computer and maybe, how to create a new one.
-    Actually im studing developments of multiplatform apps
+    Actually im studing developments of videogames and virtual reality
   </h3>
 
 - 👀 I’m interested in reading books, playing videogames and learning new things.
-- 🌱 I’m currently learning Odoo and kotlin.
-- 💬 Ask me about Python, HTML5 , MYSQL, Git, CSS, SCSS, JavaScript, PhP and Java
+- 🌱 I’m currently learning C#.
+- 💬 Ask me about Python, HTML5 , MYSQL, Git, CSS, SCSS, JavaScript, PhP,Java, Odoo & Kotlin
 - 💞️ I’m looking to collaborate with my classmates to get a A+
 - 📫 My e-mail is pablolestau@outlook.com
    
